@@ -1,0 +1,11 @@
+great work on this
+
+my notes:
+
+1.  Followed the comment standard per class standards.    10/10
+
+2.  Followed our naming conventions for all the variables.  10/10
+
+3.  used prototypes, probably should have broken the inputs down to four separate subs.  Nice attempt at error handling.  Really should use constants for the percentages.  Formatted outputs.  38/40
+
+4.  Good input gave good outputs.  Running totals were correct.  Max $200 was handled properly.   Outputs presented well with $.  Caught my errors.  Nice job.  40/40
